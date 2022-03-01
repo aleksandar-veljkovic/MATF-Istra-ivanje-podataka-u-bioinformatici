@@ -1,5 +1,5 @@
 # 1 - Relativna upotreba sinonimnih kodona (RSCU)
-## Obrađene teme*
+## Obrađene teme
 * Implementacija algoritma za izračunavanje RSCU
 * Pregled biblioteke [CAI](https://cai.readthedocs.io/)
 * Primer izračunavanja RSCU i CAI nad kodirajućim sekvancama e. coli
